@@ -39,10 +39,6 @@ cargo run -- drop
 
 this implementation is for educational purposes and does not include persistent storage. all data is kept in memory and will be lost when the program terminates.
 
-## contributing
-
-contributions, issues, and feature requests are welcome. feel free to check [issues page](https://github.com/oeo/rust-chain/issues) if you want to contribute.
-
 ## license
 
 mit
